@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29111" started-at="2020-05-05T00:52:28Z" finished-at="2020-05-05T00:52:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29111" started-at="2020-05-05T00:52:28Z" finished-at="2020-05-05T00:52:57Z">
+      <class name="com.demo.Erail">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.demo.Erail@240237d2]" name="beforeMethod" is-config="true" duration-ms="12792" started-at="2020-05-05T00:52:28Z" finished-at="2020-05-05T00:52:40Z">
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="eRailLaunch()[pri:0, instance:com.demo.Erail@240237d2]" name="eRailLaunch" duration-ms="16276" started-at="2020-05-05T00:52:40Z" finished-at="2020-05-05T00:52:57Z">
+        </test-method> <!-- eRailLaunch -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.demo.Erail@240237d2]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-05-05T00:52:57Z" finished-at="2020-05-05T00:52:57Z">
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.demo.Erail -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
